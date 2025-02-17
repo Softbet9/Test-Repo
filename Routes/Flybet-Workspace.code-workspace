@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../../pem"
+		},
+		{
+			"path": "../../flybet-declaration"
+		},
+		{
+			"path": "../../FLYBET FRONTEND"
+		},
+		{
+			"path": "../../flybet-admin"
+		}
+	],
+	"settings": {}
+}
